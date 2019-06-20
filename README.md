@@ -17,3 +17,9 @@ Clients containing the agents, each of them adjusted to a particular player, den
 Entorno basado en la copia de el juego Mortal Kombat del proyecto https://github.com/mgechev/mk.js/ con ligeras modificaciones a los inputs y a una de las arenas para facilitar las tareas del servidor.
 //
 Envinroment based on a copy of the game Mortal Kombat from the project https://github.com/mgechev/mk.js/ with slight modifications to the inputs and the arenas in order to facilitate the tasks of the server.
+
+
+
+
+---
+This project has received funding from the European Union's Horizon 2020 research and innovation programme under the Marie Sklodowska-Curie grant agreement No 777720
